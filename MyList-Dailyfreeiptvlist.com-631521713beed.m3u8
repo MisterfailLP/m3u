@@ -1,0 +1,42 @@
+#EXTM3U
+#PLAYLIST:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/de" group-title="s",VOX
+http://185.71.64.167:80/307245103371/307245103371/83181?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/de" group-title="s",VOX
+http://rv.therevenge.co:80/live/242424/242424/81607.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/de" group-title="s",VOX
+http://rv.therevenge.co:80/live/242424/242424/83181.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/de" group-title="s",VOX
+http://185.71.64.167:80/307245103371/307245103371/81607?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/de" group-title="s",VOX Austria
+http://tvog.eu:8080/ibrahim/08.03.2020/136694?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/de" group-title="s",VOX FHD
+http://tvog.eu:8080/ibrahim/08.03.2020/136695?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/de" group-title="s",VOX HD
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/81608?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/de" group-title="s",VOX HD
+http://185.71.64.167:80/307245103371/307245103371/83182?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/de" group-title="s",VOX HD
+http://rv.therevenge.co:80/live/11223344/11223344/81608.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/de" group-title="s",VOX HD
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/83182?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/de" group-title="s",VOX HD
+http://185.71.64.167:80/307245103371/307245103371/81608?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/de" group-title="s",VOX HQ
+http://zn.myseries.xyz:8080/suayip/suayip1234/43853?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/de" group-title="s",VOX UP
+http://tvog.eu:8080/ibrahim/08.03.2020/136696?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/de" group-title="s",3 SAT
+http://rv.therevenge.co:80/live/242424/242424/81627.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/de" group-title="s",3 SAT
+http://185.71.64.167:80/307245103371/307245103371/81627?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/de" group-title="s",RTL 1 FHD
+http://tvog.eu:8080/ibrahim/08.03.2020/136571?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/de" group-title="s",RTL 2 FHD
+http://tvog.eu:8080/ibrahim/08.03.2020/136572?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/de" group-title="s",RTL 2 Luxemburg HD
+http://tvog.eu:8080/ibrahim/08.03.2020/136573?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/de" group-title="s",RTL CRIME HD
+http://rv.therevenge.co:80/live/242424/242424/81475.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/de" group-title="s",RTL CRIME HD
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/81475?checkedby:dailyfreeiptvlist.com
