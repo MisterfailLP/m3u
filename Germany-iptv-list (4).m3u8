@@ -1,0 +1,127 @@
+#EXTM3U
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://i.imgur.com/zZd9Tkt.png" group-title="Undefined;MEXICO",WNYW-DT1 (FOX 5) (720p)
+http://v-ny.theus6tv.duckdns.org/hls/5.1/playlist.m3u8
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Movies%21_logo.svg/512px-Movies%21_logo.svg.png" group-title="Undefined;MEXICO",WNYW-DT2 (Movies!)
+http://v-ny.theus6tv.duckdns.org/hls/5.2/playlist.m3u8
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/512px-MyNetworkTV_2D_Logo.svg.png" group-title="Undefined;MEXICO",WNYW-DT3 (FOX Weather)
+http://v-ny.theus6tv.duckdns.org/hls/5.3/playlist.m3u8
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/The_Grio_logo.png" group-title="Undefined;MEXICO",WNYW-DT4 (The Grio)
+http://v-ny.theus6tv.duckdns.org/hls/5.4/playlist.m3u8
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Decades_Logo.svg/512px-Decades_Logo.svg.png" group-title="Undefined;MEXICO",WNYW-DT5 (Decades)
+http://v-ny.theus6tv.duckdns.org/hls/5.5/playlist.m3u8
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/WPHL-TV_logo.svg/512px-WPHL-TV_logo.svg.png" group-title="Undefined;MEXICO",WPHL-DT1 (PHL17) (720p)
+http://v-pi.theus6tv.duckdns.org/hls/17.1/playlist.m3u8
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Antenna_TV_logo.svg/512px-Antenna_TV_logo.svg.png" group-title="Undefined;MEXICO",WPHL-DT2 (Antenna TV) (480p)
+http://v-pi.theus6tv.duckdns.org/hls/17.2/playlist.m3u8
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="" group-title="Undefined;MEXICO",WPHY-CD2 (SonLife) (432p)
+http://v-pi.theus6tv.duckdns.org/hls/25.2/playlist.m3u8
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/512px-PIX11_2017.svg.png" group-title="Undefined;MEXICO",WPIX-DT1 (PIX 11)
+http://v-ny.theus6tv.duckdns.org/hls/11.1/playlist.m3u8
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Rewind_TV_logo.png/512px-Rewind_TV_logo.png" group-title="Undefined;MEXICO",WPIX-DT4 (Rewind TV) (480p)
+http://v-ny.theus6tv.duckdns.org/hls/11.4/playlist.m3u8
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/512px-ION_Mystery_logo.svg.png" group-title="Undefined;MEXICO",WPPX-DT4 (TrueReal) (480p)
+http://v-pi.theus6tv.duckdns.org/hls/61.4/playlist.m3u8
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" group-title="Undefined;MEXICO",WPPX-DT5 (Laff) (432p)
+http://v-pi.theus6tv.duckdns.org/hls/61.5/playlist.m3u8
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News;MEXICO",WPVI-DT1 (ABC 6) (720p)
+http://v-pi.theus6tv.duckdns.org/hls/6.1/playlist.m3u8
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png" group-title="Undefined;MEXICO",WPXN-DT1 (Ion East)
+http://v-ny.theus6tv.duckdns.org/hls/31.1/playlist.m3u8
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/512px-Bounce_TV_logo.svg.png" group-title="Undefined;MEXICO",WPXN-DT2 (Bounce HD)
+http://v-ny.theus6tv.duckdns.org/hls/31.2/playlist.m3u8
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/512px-ION_Mystery_logo.svg.png" group-title="Undefined;MEXICO",WPXN-DT3 (ION Mystery)
+http://v-ny.theus6tv.duckdns.org/hls/31.3/playlist.m3u8
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="" group-title="Undefined;MEXICO",WPXN-DT4 (Defy TV)
+http://v-ny.theus6tv.duckdns.org/hls/31.4/playlist.m3u8
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" group-title="Undefined;MEXICO",WPXN-DT5 (Laff)
+http://v-ny.theus6tv.duckdns.org/hls/31.5/playlist.m3u8
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/TrueReal_logo.png" group-title="Undefined;MEXICO",WPXN-DT6 (True Real)
+http://v-ny.theus6tv.duckdns.org/hls/31.6/playlist.m3u8
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="" group-title="News;MEXICO",WPXN-DT7 (Newsy)
+http://v-ny.theus6tv.duckdns.org/hls/31.7/playlist.m3u8
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/WRNN-TV_RNN_logo.png/512px-WRNN-TV_RNN_logo.png" group-title="Undefined;MEXICO",WRNN-DT1 (ShopLC) (720p)
+http://v-ny.theus6tv.duckdns.org/hls/48.1/playlist.m3u8
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://tvtv.us/gn/i/assets/s113430_ll_h8_aa.png?w=180&h=1355" group-title="Undefined;MEXICO",WRNN-DT2 (Circle) (432p)
+http://v-ny.theus6tv.duckdns.org/hls/48.2/playlist.m3u8
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://i.imgur.com/2Rwnuyr.png" group-title="Undefined;MEXICO",WRNN-DT3 (Canal de la Fe) (432p)
+http://v-ny.theus6tv.duckdns.org/hls/48.3/playlist.m3u8
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/512px-QVC_logo_2019.svg.png" group-title="Undefined;MEXICO",WRNN-DT4 (QVC) (432p)
+http://v-ny.theus6tv.duckdns.org/hls/48.4/playlist.m3u8
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/WTVE51.png" group-title="Undefined;MEXICO",WTVE-DT1 (720p)
+http://v-pi.theus6tv.duckdns.org/hls/51.1/playlist.m3u8
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/As_seen_on_TV.svg/512px-As_seen_on_TV.svg.png" group-title="Undefined;MEXICO",WTVE-DT2 (TimelessTV) (432p)
+http://v-pi.theus6tv.duckdns.org/hls/51.2/playlist.m3u8
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://i.imgur.com/fRjmk5r.png" group-title="Undefined;MEXICO",WTXF-DT1 (FOX 29) (720p)
+http://v-pi.theus6tv.duckdns.org/hls/29.1/playlist.m3u8
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/True_Crime_Network_logo.svg/512px-True_Crime_Network_logo.svg.png" group-title="Entertainment;MEXICO",WUVP-DT3 (True Crime Network) (432p)
+http://v-pi.theus6tv.duckdns.org/hls/65.3/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",WWE HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/240944
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/512px-MyNetworkTV_2D_Logo.svg.png" group-title="Undefined;MEXICO",WWOR-DT1 (my9)
+http://v-ny.theus6tv.duckdns.org/hls/9.1/playlist.m3u8
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/512px-Buzzr_logo.svg.png" group-title="Undefined;MEXICO",WWOR-DT3 (Heroes & Icons)
+http://v-ny.theus6tv.duckdns.org/hls/9.3/playlist.m3u8
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/TeleXitos_TV.png" group-title="Undefined;MEXICO",WWSI-DT2 (teleXitos) (432p)
+http://v-pi.theus6tv.duckdns.org/hls/62.2/playlist.m3u8
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wxtv_univision41_new_york.png" group-title="Undefined;MEXICO",WXTV-DT1 (Univision 41)
+http://v-ny.theus6tv.duckdns.org/hls/41.1/playlist.m3u8
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/512px-Bounce_TV_logo.svg.png" group-title="Undefined;MEXICO",WXTV-DT2 (Bounce TV)
+http://v-ny.theus6tv.duckdns.org/hls/41.2/playlist.m3u8
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Twist_logo.svg/512px-Twist_logo.svg.png" group-title="Undefined;MEXICO",WXTV-DT3 (Twist)
+http://v-ny.theus6tv.duckdns.org/hls/41.3/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Welt
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/welt.de.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Wernigerode TV DE
+rtmp://62.113.210.250/medienasa-live/ok-wernigerode_high
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="" group-title="Undefined;MEXICO",Weyyak Smashi (720p)
+https://weyyak-live.akamaized.net/weyyak_smashi_tv/index.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ZDF
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/zdf.de.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ZDF
+http://mains.services:2086/A.Jones01/1904550/92314
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ZDF FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132827
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ZDF HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/135824
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ZDF HD DE
+http://stariptv.org:8080/hamza2022/123456/44573
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ZDF HEVC
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/286746
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ZDF INFO HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3487
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ZDF NEO HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3489
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://landingwebimg.s3.amazonaws.com/uploads/landing_page_business/logo/30003/image-upload1645141554.jpeg" group-title="Undefined;MEXICO",Zona Joven TV
+https://stmv2.voxtvhd.com.br/zonajoventv/zonajoventv/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",arte
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/arte.de.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="http://worldiptv.xyz/chlogos/eSports1.de.png" group-title="Sport",eSports 1 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/34057
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/dKCLYAj.png" group-title="Undefined",ems TV Lingen
+https://5889e7d0d6e28.streamlock.net/ev1tv-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/dKCLYAj.png" group-title="Undefined",ems TV Lingen (280p)
+https://5889e7d0d6e28.streamlock.net/ev1tv-live/mp4:livestream/playlist.m3u8
+#EXTINF:0 tvg-country="AF;DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://i.imgur.com/fSg3txj.png" group-title="General;MEXICO",iON TV (576p)
+https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://kulturmd.de/images/2018_KMDLogo.png" group-title="Undefined",kulturmdTV
+http://62.113.210.250/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",münchen.tv
+https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",n-tv
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ntv.de.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",n24 Doku
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/n24.de.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/NHvYg7e.png" group-title="Undefined",oeins Oldenburg
+https://www.oeins.de/live/studio.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rheinmaintv.png" group-title="Undefined",rheinmaintv
+https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/playlist.m3u8?=&ref=www.rheinmaintv.de&seid=598541
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/G7W4K3K.png" group-title="Undefined",rheinmaintv (720p) [Not 24/7]
+https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/chunklist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/YBkBDSz.png" group-title="Undefined",rheinmaintv (720p) [Not 24/7]
+https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rheinmaintv.png" group-title="Undefined",rheinmaintv (720p) [Not 24/7]
+https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/playlist.m3u8?=&ref=www.rheinmaintv.de&seid=598541
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",sixx
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sixx.de.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/05UB2YT.png" group-title="Undefined",teltOwkanal (1080p)
+https://5856e1a25f71a.streamlock.net/easycast8-live/mp4:livestreamhd8/playlist.m3u8
