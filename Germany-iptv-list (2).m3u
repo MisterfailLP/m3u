@@ -1,0 +1,601 @@
+#EXTM3U
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",My Sport 5
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/my.sport.5.ch.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",My Sport 6
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/my.sport.6.ch.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",My Sport 7
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/my.sport.7.ch.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",My Sport 8
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/my.sport.8.ch.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",My Sport 9 CH
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/my.sport.9.ch.m3u8
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://cdn.colombia.com/canales/canal-mas-television-5347.jpg" group-title="Undefined;MEXICO",Más TV
+https://video.ejeserver.com/live/teledoradahd.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",N-TV
+http://mains.services:2086/A.Jones01/1904550/92417
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",N-TV HD DE
+http://stariptv.org:8080/hamza2022/123456/44582
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",N24 DOKU HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/30391
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",N24 HD DE
+http://stariptv.org:8080/hamza2022/123456/44575
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",N24 HD DE
+http://mains.services:2086/A.Jones01/1904550/92419
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",NAT GEO WILD
+http://mains.services:2086/A.Jones01/1904550/92367
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",NAT GEO WILD FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/173736
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",NAT GEO WILD HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3454
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",NATIONAL GEOGRAPHIC  FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3455
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",NATIONAL GEOGRAPHIC HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/173734
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",NDR
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ndr.de.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",NDR HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3429
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",NDR HD DE
+http://stariptv.org:8080/hamza2022/123456/44548
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",NICK - CC+1 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/30359
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",NICKELODEON
+http://mains.services:2086/A.Jones01/1904550/92377
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",NICKELODEON FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/422973
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",NICKELODEON HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/422974
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",NITRO FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3423
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",NITRO HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3482
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",NRJ HITS TV
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/240633
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",NRWISION (1080p)
+https://fms.nrwision.de/live/livestreamHD.stream_source/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nrwision.png" group-title="Undefined",NRWision
+https://fms.nrwision.de/live/livestreamHD.stream_360p/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/RkF2Kmx.png" group-title="Undefined",NRWision
+https://fms.nrwision.de/live/livestreamHD.stream_360p/chunklist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/RkF2Kmx.png" group-title="Undefined",NRWision
+https://fms.nrwision.de/live/livestreamHD.stream_1080p/chunklist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/RkF2Kmx.png" group-title="Undefined",NRWision (1080p)
+https://fms.nrwision.de/live/livestreamHD.stream_1080p/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",NTV FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/173738
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",NTV HEVC
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/356351
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",NatGeo
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/natgeo.de.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",National Geographic HD DE
+http://stariptv.org:8080/hamza2022/123456/44561
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Nickelodeon
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nickelodeon.de.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Nickelodeon HD DE
+http://stariptv.org:8080/hamza2022/123456/44538
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Noa 4 Hamburg
+https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Noa 4 Hamburg
+http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Noa 4 Norderstedt
+http://stariptv.org:8080/hamza2022/123456/69688
+#EXTINF:0 tvg-country="DE" tvg-logo="http://s3.vefire.ru/l/en/NOA4.gif" group-title="Undefined",Noa 4 Norderstedt
+http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="http://s3.vefire.ru/l/en/NOA4.gif" group-title="Undefined",Noa 4 Norderstedt
+https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://www.novelisima.com/assets/images/logo.png" group-title="Undefined;MEXICO",Novelísima [Not 24/7]
+https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/BmJaDT3.jpg" group-title="Sport",OF-TV Offenbach (720p)
+https://5864df9ceac85.streamlock.net/germanpictures-live/mp4:streamschedule/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://www.ok-dessau.de/fileadmin/layout/logo_okdessau.jpg" group-title="Undefined",OK Dessau
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-dessau_high/playlist.m3u8?&ref=www.ok-dessau.de&seid=408238
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okdessau.png" group-title="Undefined",OK Dessau (1080p) [Not 24/7]
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-dessau_high/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okdessau.png" group-title="Undefined",OK Dessau (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",OK MAGDEBURG HD
+http://62.113.210.250/medienasa-live/ok-magdeburg_high/HasBahCa.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/kBR5XUI.png" group-title="Undefined",OK Magdeburg
+http://62.113.210.250:1935/medienasa-live/_definst_/mp4:ok-magdeburg_high/playlist.m3u8?&ref=www.ok-magdeburg.de&seid=771136
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okmagdeburg.png" group-title="Undefined",OK Magdeburg (1080p)
+http://62.113.210.250/medienasa-live/ok-magdeburg_high/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okmagdeburg.png" group-title="Undefined",OK Magdeburg (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okmagdeburg.png" group-title="Undefined",OK Magdeburg (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-magdeburg_high/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://www.okmq.de/images/logo/logo_neu.png" group-title="Undefined",OK Merseburg
+http://62.113.210.250:1935/medienasa-live/_definst_/mp4:ok-merseburg_high/playlist.m3u8?&ref=www.okmq.de&seid=800040
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okmerseburg.png" group-title="Undefined",OK Merseburg-Querfurt (1080p) [Not 24/7]
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-merseburg_high/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okmerseburg.png" group-title="Undefined",OK Merseburg-Querfurt (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://ok-salzwedel.de/wp-content/themes/oksaw/images/logo-home.png" group-title="Undefined",OK Salzwedel
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-salzwedel_high/playlist.m3u8?&ref=ok-salzwedel.de&seid=783487
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oksalzwedel.png" group-title="Undefined",OK Salzwedel (1080p) [Not 24/7]
+http://62.113.210.250/medienasa-live/ok-salzwedel_high/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oksalzwedel.png" group-title="Undefined",OK Salzwedel (1080p) [Not 24/7]
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-salzwedel_high/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oksalzwedel.png" group-title="Undefined",OK Salzwedel (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",OK Salzwedel TV
+http://62.113.210.250/medienasa-live/ok-salzwedel_high/chunklist_w623677241.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okstendal.png" group-title="Undefined",OK Stendal (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-stendal_high/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okstendal.png" group-title="Undefined",OK Stendal (1080p)
+http://62.113.210.250/medienasa-live/ok-stendal_high/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okstendal.png" group-title="Undefined",OK Stendal (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-stendal_high/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oktrier.png" group-title="Undefined",OK Trier
+https://s.ok54.de/ott/webstream/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/8qWX30L.png" group-title="Undefined",OK Weinstrasse Landau
+https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://medienportal-sachsen-anhalt.de/uploads/logos/ok-werni.png" group-title="Undefined",OK Wernigerode
+http://62.113.210.250:1935/medienasa-live/_definst_/mp4:ok-wernigerode_high/playlist.m3u8?&ref=www.campus-tv-harz.de&seid=765525
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okwernigerode.png" group-title="Undefined",OK Wernigerode (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okwernigerode.png" group-title="Undefined",OK Wernigerode (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-wernigerode_high/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ORF 1
+http://mains.services:2086/A.Jones01/1904550/92409
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ORF 1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/orf.1.de.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ORF 1 HD DE
+http://stariptv.org:8080/hamza2022/123456/44559
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ORF 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/orf.2.de.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ORF 2
+http://mains.services:2086/A.Jones01/1904550/92410
+#EXTINF:0 tvg-country="DE" tvg-logo="http://worldiptv.xyz/chlogos/ORF2.at.png" group-title="Undefined",ORF 2 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/2042
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ORF 2 HD DE
+http://stariptv.org:8080/hamza2022/123456/44558
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Oberlausitz TV (1080p) [Not 24/7]
+http://5856e1a25f71a.streamlock.net:1935/easycast8-live/mp4:livestreamhd4/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Oberpfalz TV
+https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="http://www.youngspeech.de/wp-content/gallery/pop10-konzert/d-logode.jpg" group-title="Undefined",Offener Kanal Dessau,pop10
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/BHTsPMP.png" group-title="Undefined",Offener Kanal Magdeburg
+http://62.113.210.250/medienasa-live/ok-magdeburg_high/FluxusTV.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="http://www.ok-magdeburg.de/wp-content/themes/okm/images/logo-offener-kanal-magdeburg.png" group-title="Undefined",Offener Kanal Magdeburg
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/B5obZtE.png" group-title="Undefined",Offener Kanal Salzwedel
+http://62.113.210.250/medienasa-live/ok-salzwedel_high/FluxusTV.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Offener Kanal Salzwedel
+http://62.113.210.250/medienasa-live/ok-salzwedel_high/HasBahCa.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="http://worldiptv.xyz/chlogos/ORF1.at.png" group-title="Undefined",Orf 1 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/2041
+#EXTINF:0 tvg-country="DE" tvg-logo="http://worldiptv.xyz/chlogos/ORF3.at.png" group-title="Undefined",Orf 3 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/2617
+#EXTINF:0 tvg-country="DE" tvg-logo="http://worldiptv.xyz/chlogos/ORFSportPlus.at.png" group-title="Sport",Orf Sport+
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/6694
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",PHOENIX HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/30052
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",POWER TV HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/330868
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",PRO 7 - SAT 1 UHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378114
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",PRO 7 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132820
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",PRO 7 FUN FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/30053
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",PRO 7 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3427
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",PRO 7 HEVC
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/356353
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",PRO 7 MAXX FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132819
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",PRO 7 MAXX HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3426
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",PROSIEBEN
+http://mains.services:2086/A.Jones01/1904550/92319
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/punktum.png" group-title="Undefined",PUNKTum (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:punktum_high/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://www.punktum-fernsehen.de/share/android-icon-192x192.png" group-title="Undefined",PUNKTum Fernsehen (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:punktum_high/playlist.m3u
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://i.imgur.com/BS8XXug.png" group-title="News;MEXICO",Palestine Today (1080p) [Geo-blocked]
+https://pbc.furrera.ps/palestinelivehd/index.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Parlamentsfernsehen 1
+https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Parlamentsfernsehen 2
+https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk2.m3u8
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/s-live-5b9076d18ef7b22560354649.png?184" group-title="Education;MEXICO",Platzi TV (1080p)
+https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ProSieben
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/prosieben.de.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ProSieben HD DE
+http://stariptv.org:8080/hamza2022/123456/44577
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ProSieben Maxx
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/prosieben.maxx.de.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ProSieben Maxx HD DE
+http://stariptv.org:8080/hamza2022/123456/44567
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",PunktUM (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://www.punktum-fernsehen.de/share/android-icon-192x192.png" group-title="Undefined",PunktUm Hettstedt
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:punktum_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=824679
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/Zb87dQQ.png" group-title="Undefined",Punkteins (Oberlausitz) (1080p) [Not 24/7]
+https://5852afe96c9bb.streamlock.net/easycast8-live/mp4:livestreamhd4/playlist.m3u8
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://cdn.colombia.com/canales/pymes-teve-5713.jpg" group-title="Business;MEXICO",Pymes TeVe
+https://vse2-sa-all62.secdn.net/tvstartup6-channel/live/pymestv/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",QVC UHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378112
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",QVC ZWEI UHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378113
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ran1.png" group-title="Undefined",RAN1 (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ran1_high/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/NUP8ZBb.png" group-title="Undefined",RAN1 Regionalfernsehen
+http://62.113.210.250:1935/medienasa-live/ran1_high/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="http://www.ran1.de/img/ban1.png" group-title="Undefined",RAN1 Regionalfernsehen (1080p)
+http://62.113.210.250:1935/medienasa-live/mp4:ran1_high/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RBB BERLIN HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/250739
+#EXTINF:0 tvg-country="DE" tvg-logo="http://www.rbwonline.de/img/ban1.png" group-title="Undefined",RBW (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:rbw_high/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="http://www.rbwonline.de/img/ban1.png" group-title="Undefined",RBW (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="http://www.rbwonline.de/img/ban1.png" group-title="Undefined",RBW Bitterfeld-Wolfen
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:rbw_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=237997
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RED BULL TV FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/421732
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfh.png" group-title="Undefined",RFH (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:RFH_high/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/e/ea/RFH-Logo.svg/200px-RFH-Logo.svg.png" group-title="Undefined",RFH Harz
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:RFH_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=528347
+#EXTINF:0 tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/e/ea/RFH-Logo.svg/200px-RFH-Logo.svg.png" group-title="Undefined",RFH Harz (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:RFH_high/playlist.m3u8?ref=medienportal-sachsen-anhalt.de&seid=528347
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RFH TV (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfo.png" group-title="Undefined",RFO Rosenheim
+https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/YkB39hx.png" group-title="Undefined",RNF
+http://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/YkB39hx.png" group-title="Undefined",RNF
+https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ROMANCE HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/30054
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL
+http://mains.services:2086/A.Jones01/1904550/92315
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rtl2.de.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL 2
+http://mains.services:2086/A.Jones01/1904550/92316
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL 2 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132817
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL 2 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3425
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL 2 HD DE
+http://stariptv.org:8080/hamza2022/123456/44579
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL 2 HEVC
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/356356
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL CRIME
+http://mains.services:2086/A.Jones01/1904550/92401
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL CRIME FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/173741
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL CRIME HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/172482
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL Crime
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rtl.crime.de.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL Crime DE
+http://stariptv.org:8080/hamza2022/123456/44556
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132818
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3424
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL HD DE
+http://stariptv.org:8080/hamza2022/123456/44583
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL HEVC
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/356357
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL LIVING FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3483
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL NITRO
+http://mains.services:2086/A.Jones01/1904550/92317
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL Nitro
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rtl.nitro.de.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL Nitro HD DE
+http://stariptv.org:8080/hamza2022/123456/44580
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL PASSION FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/173742
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL UHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/330499
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL UP FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/8193
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL plus
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rtl.plus.de.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="http://worldiptv.xyz/chlogos/rtlsport.jpg" group-title="Sport",RTL+ Sport Event 1
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/144807
+#EXTINF:0 tvg-country="DE" tvg-logo="http://worldiptv.xyz/chlogos/rtlsport.jpg" group-title="Sport",RTL+ Sport Event 2
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/144808
+#EXTINF:0 tvg-country="DE" tvg-logo="http://worldiptv.xyz/chlogos/rtlsport.jpg" group-title="Sport",RTL+ Sport Event 3
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/144809
+#EXTINF:0 tvg-country="DE" tvg-logo="http://worldiptv.xyz/chlogos/rtlsport.jpg" group-title="Sport",RTL+ Sport Event 4
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/144810
+#EXTINF:0 tvg-country="DE" tvg-logo="http://worldiptv.xyz/chlogos/rtlsport.jpg" group-title="Sport",RTL+ Sport Event 5
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/144811
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/ubEUBmB.png" group-title="Music",Radio 21 TV
+http://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Ran 1 (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="http://www.ran1.de/img/ban1.png" group-title="Undefined",Ran1 Dessau-RoЯlau
+http://62.113.210.250:1935/medienasa-live/_definst_/mp4:ran1_high/playlist.m3u8?&ref=www.ran1.de&seid=201846
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/olVCZTJ.png" group-title="Undefined",Regio TV Bodensee
+https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Return To Hogwarts - 2022
+http://tvalb.xyz:8080/movie/9rht8uKGJs/sBN1pWJUhQ/405508.mp4
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/G7W4K3K.png" group-title="Undefined",Rheinmain TV
+https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/chunklist.m3u8
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png" group-title="Movies;MEXICO",Rotana Cinema (1080p)
+https://rotanastudios-rotanacinema-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://i.imgur.com/ufkCKCs.png" group-title="Classic;MEXICO",Rotana Classic (1080p)
+https://rotanastudios-rotanaclassic-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://i.imgur.com/ZeHLXlw.png" group-title="Comedy;MEXICO",Rotana Comedy (1080p) [Geo-blocked]
+https://rotanastudios-rotanacomedy-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://i.imgur.com/IhUe8Ka.png" group-title="Undefined;MEXICO",Rotana Drama (1080p) [Geo-blocked]
+https://rotanastudios-rotanadrama-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://i.imgur.com/FpZ7xVT.png" group-title="Music;MEXICO",Rotana Music (1080p)
+https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SAT 1
+http://mains.services:2086/A.Jones01/1904550/92406
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SAT 1
+http://mains.services:2086/A.Jones01/1904550/92321
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SAT 1 EMOTIONS FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/133917
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SAT 1 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132821
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SAT 1 GOLD FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/30356
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SAT 1 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/176190
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SAT 1 HEVC
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3385
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SAT.1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sat.1.de.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SCHLAGER DELUXE
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/390902
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SERVUS TV DEUTSCHLAND FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132729
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SILVERLINE HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/340366
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SIXX HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/173743
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SIXX HD DE
+http://stariptv.org:8080/hamza2022/123456/44574
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SIXX HEVC
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/356352
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY ATLANTIC
+http://mains.services:2086/A.Jones01/1904550/92391
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY ATLANTIC FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132811
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY ATLANTIC HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3416
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY CINEMA 1
+http://mains.services:2086/A.Jones01/1904550/92381
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY CINEMA 24
+http://mains.services:2086/A.Jones01/1904550/92382
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY CINEMA ACTION
+http://mains.services:2086/A.Jones01/1904550/92390
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY CINEMA ACTION HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3417
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY CINEMA BEST OF FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132809
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY CINEMA BEST OF HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132725
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY CINEMA CLASSICS HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3396
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY CINEMA COMEDY
+http://mains.services:2086/A.Jones01/1904550/92389
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY CINEMA FAMILY
+http://mains.services:2086/A.Jones01/1904550/92386
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY CINEMA FAMILY HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/30390
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY CINEMA FUN HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3401
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY CINEMA HITS
+http://mains.services:2086/A.Jones01/1904550/92385
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY CINEMA NOSTALGIE
+http://mains.services:2086/A.Jones01/1904550/92383
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY CINEMA PREMIEREN +24 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3403
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY CINEMA PREMIEREN FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132815
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY CINEMA PREMIEREN HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3404
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY CINEMA SPECIAL FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/311996
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY CINEMA SPECIAL HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/232471
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY CINEMA THRILLER FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132814
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY CINEMA THRILLER HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3402
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY COMEDY FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/332936
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY CRIME FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/332872
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY DOCUMENTARIES FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/377955
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY KRIMI
+http://mains.services:2086/A.Jones01/1904550/92392
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY NATURE FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/377956
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY ONE FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/30041
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY REPLAY FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/313512
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE 1 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3395
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE 1 UHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/414692
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE 10 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/135784
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE 11 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/135783
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE 12 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/135782
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE 13 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/135781
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE 14 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/135780
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE 15 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/135779
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE 16 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/135778
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE 17 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/135777
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE 18 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/135776
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE 2 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3394
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE 2 UHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/414691
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE 3 UHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/414690
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE 4 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3392
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE 4 UHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/414689
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE 5 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3391
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE 5 UHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/414688
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE 6 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/301602
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE 6 UHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/414687
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE 7 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3389
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE 8 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3388
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE 8 UHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/414685
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE 9 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/135785
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE 9 UHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/414684
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SELECT PREMIERE VITRINE FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/135775
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 1
+http://mains.services:2086/A.Jones01/1904550/92331
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 1 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132798
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 1 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/30036
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 1 UHD - BUNDESLIGA 1 UHD - F1 UHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132807
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 10 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123025
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 11 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/395375
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 2
+http://mains.services:2086/A.Jones01/1904550/92332
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 2 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132797
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 2 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/30039
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 3 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123018
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 4 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123019
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 5 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123020
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 6 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123021
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 7 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123022
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 8 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123023
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT 9 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123024
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT AUSTRIA
+http://mains.services:2086/A.Jones01/1904550/92341
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 1 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3415
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 1 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/29997
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 1 HEVC
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/356343
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 10 (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3414
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 2 FHD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132806
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 2 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3413
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 3 FHD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132805
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 3 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3412
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 4 FHD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132804
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 4 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123115
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 5 FHD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132803
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 5 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3410
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 6 FHD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132802
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 6 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3409
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 7 FHD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132801
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 7 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3408
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 9 (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3406
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT F1 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/330461
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT F1 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/366496
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT F1 HEVC
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/412606
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT GOLF FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/426458
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT GOLF HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/426453
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT MIX FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/426456
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT MIX HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/426451
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT NEWS FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132799
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT NEWS HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3374
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT PREMIER LEAGUE FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/426457
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT PREMIER LEAGUE HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/426452
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT TENNIS FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/426455
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT TENNIS HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/426450
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT TOP EVENT FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/426454
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT TOP EVENT HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/426449
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SKY SYFY HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3367
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SLTV 24 - 7 96 HOURS TAKEN FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/401446
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SLTV 24 - 7 A CHINESE GHOST STORY FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/401447
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SLTV 24 - 7 ALIEN FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/401450
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SLTV 24 - 7 AMERICAN PIE FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/401454
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SLTV 24 - 7 BAD BOYS FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/401453
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SLTV 24 - 7 BATMAN FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/401452
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SLTV 24 - 7 CONAN FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/401395
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SLTV 24 - 7 DER HERR DER RINGE FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/401393
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SLTV 24 - 7 DREI ENGEL FUR CHARLIE FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/401448
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SLTV 24 - 7 FAST AND FURIOUS FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/401445
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SLTV 24 - 7 FLUCH DER KARIBIK FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/401449
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SLTV 24 - 7 GHOSTBUSTERS FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/401394
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SLTV 24 - 7 HANNIBAL FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/401391
